@@ -1,0 +1,323 @@
+a#logo {
+    position: absolute;
+    top: 24px;
+    left: 142px;
+    width: 38px;
+    height: 48px;
+    background: transparent url('../images/logo2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p#title {
+    position: absolute;
+    top: 6px;
+    left: 188px;
+    width: 140px;
+    height: 41px;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -2.4px;
+    opacity: 1;
+    color: #229de8
+}
+
+span#call {
+    color: #B60B05;
+}
+
+nav {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 618px;
+    width: 645px;
+    height: 18px;
+    opacity: 1;
+    text-align: left;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    float: left;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    font-size: 18px;
+    margin-left: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a.header {
+    text-decoration: none;
+    color: #229de8;
+}
+
+header {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 88px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+#reg {
+    position: absolute;
+    top: 168px;
+    left: 161px;
+    width: 500px;
+    height: 49px;
+    text-align: left;
+    font-size: 36px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -0.58px;
+    color: #229de8;
+}
+
+#reg1 {
+    position: absolute;
+    top: 237px;
+    left: 164px;
+    width: 354px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -0.77px;
+    color: #6E7275;
+    opacity: 1;
+}
+
+#username {
+    position: absolute;
+    top: 298px;
+    left: 161px;
+    width: 450px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: sans-serif, 'Nunito';
+    letter-spacing: -1.44px;
+    color: #6E7275;
+    opacity: 1;
+    border-right: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
+}
+
+#pass {
+    position: absolute;
+    top: 393px;
+    left: 165px;
+    width: 450px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: -1.44px;
+    color: #6E7275;
+    opacity: 1;
+    border-right: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-top: 0px solid #FFFFFF;
+}
+
+#reg2 {
+    position: absolute;
+    top: 168px;
+    left: 758px;
+    width: 479px;
+    height: 49px;
+    text-align: left;
+    font-size: 36px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -0.58px;
+    color: #229DE8;
+    opacity: 1;
+}
+
+#reg3 {
+    position: absolute;
+    top: 237px;
+    left: 758px;
+    width: 444px;
+    height: 48px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -0.77px;
+    color: #6E7275;
+    opacity: 1;
+}
+
+#submit {
+    position: absolute;
+    top: 490px;
+    left: 166px;
+    width: 248px;
+    height: 49px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#fgt {
+    position: absolute;
+    top: 420px;
+    left: 471px;
+    width: 110px;
+    height: 22px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: -1.28px;
+    color: #229DE8;
+    opacity: 1;
+}
+
+#login {
+    position: absolute;
+    top: 500px;
+    left: 166px;
+    width: 248px;
+    height: 49px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+#log {
+    position: absolute;
+    top: 512px;
+    left: 258px;
+    width: 45px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+div#footer {
+    position: absolute;
+    top: 725px;
+    left: 50px;
+    width: 1267px;
+    height: 127px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 48px 48px 0px 0px;
+    opacity: 1;
+}
+
+p#footer {
+    position: absolute;
+    top: 765px;
+    left: 1131px;
+    width: 142px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+img#fb {
+    position: absolute;
+    top: 775px;
+    left: 652px;
+    width: 11px;
+    height: 21px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#tw {
+    position: absolute;
+    top: 775px;
+    left: 687px;
+    width: 28px;
+    height: 21px;
+    background: transparent url('img/twitter-logo-silhouette.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+a#aboutf {
+    position: absolute;
+    top: 775px;
+    left: 140px;
+    width: 50px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+a#faqf {
+    position: absolute;
+    top: 775px;
+    left: 260px;
+    width: 44px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+a#contactf {
+    position: absolute;
+    top: 775px;
+    left: 381px;
+    width: 90px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#create {
+    position: absolute;
+    top: 306px;
+    left: 758px;
+    width: 248px;
+    height: 49px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+#account {
+    position: absolute;
+    top: 303px;
+    left: 822px;
+    width: 171px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: sans-serif, 'Nunito Sans';
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}

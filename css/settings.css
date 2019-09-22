@@ -1,0 +1,215 @@
+@charset "utf-8";
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a#logo {
+    position: absolute;
+    top: 24px;
+    left: 142px;
+    width: 38px;
+    height: 48px;
+    background: transparent url('../images/logo2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p#title {
+    position: absolute;
+    top: 6px;
+    left: 188px;
+    width: 140px;
+    height: 41px;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: -2.4px;
+    opacity: 1;
+    color: #229de8
+}
+
+span#call {
+    color: #B60B05;
+}
+
+header {
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 88px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+#noti {
+    position: absolute;
+    top: 39px;
+    left: 1025px;
+    width: 101px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0;
+    color: #868686;
+    opacity: 1;
+    text-decoration: none;
+}
+
+#circle {
+    position: absolute;
+    top: 17px;
+    left: 1182px;
+    width: 54px;
+    height: 54px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    border-radius: 100%;
+}
+
+#initials {
+    position: absolute;
+    top: 4px;
+    left: 1192px;
+    width: 34px;
+    height: 34px;
+    text-align: left;
+    font-size: 25px;
+    font-family: ' Nunito', sans-serif;
+    font-weight: bold;
+    letter-spacing: -2px;
+    color: #229DE8;
+    opacity: 1;
+}
+
+h1 {
+    position: absolute;
+    top: 128px;
+    left: 150px;
+    width: 92px;
+    height: 34px;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #343638;
+    opacity: 1
+}
+
+div#password {
+    position: absolute;
+    top: 188px;
+    left: 209px;
+    width: 962px;
+    height: 99px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+p#password {
+    position: absolute;
+    top: 207px;
+    left: 228px;
+    width: 300px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #676868;
+    opacity: 1;
+}
+
+span#password {
+    position: absolute;
+    top: 29px;
+    left: 1px;
+    width: 62px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+}
+
+span#password a {
+    text-decoration: none;
+    color: #229DE8;
+}
+
+#noti {
+    position: absolute;
+    top: 316px;
+    left: 209px;
+    width: 962px;
+    height: 152px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+#not {
+    position: absolute;
+    top: 305px;
+    left: 228px;
+    width: 161px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #676868;
+    opacity: 1;
+}
+
+hr {
+    position: absolute;
+    top: 345px;
+    left: 209px;
+    width: 962px;
+    height: 0px;
+    opacity: 1;
+}
+
+#not1 {
+    position: absolute;
+    top: 372px;
+    left: 230px;
+    width: 119px;
+    height: 22px;
+    text-align: left;
+    font-size: 16px;
+    font-family: ' Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #5A5F61;
+    opacity: 1;
+}
+
+#not2 {
+    position: absolute;
+    top: 411px;
+    left: 230px;
+    width: 122px;
+    height: 22px;
+    text-align: left;
+    font-size: 16px;
+    font-family: ' Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #5A5F61;
+    opacity: 1;
+}
+
+input#Pnotif {
+    position: absolute;
+    top: 397px;
+    left: 1084px;
+    width: 34px;
+    height: 14px;
+    background: #221F1F42 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

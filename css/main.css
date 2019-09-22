@@ -1,0 +1,507 @@
+@charset "utf-8";
+body {
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header {
+    background: transparent url('../images/hbanner.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    top: -2.0020217895507812px;
+    left: -11px;
+    width: 1366px;
+    height: 768px;
+}
+
+nav {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 618px;
+    width: 645px;
+    height: 18px;
+    opacity: 1;
+    text-align: left;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    float: left;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a.header {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a.header:hover {
+    color: #B60C06;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    font-size: 18px;
+    margin-left: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    left: 142px;
+    width: 38px;
+    height: 45px;
+    background: transparent url('../images/emergency.png') 0% 0% no-repeat padding-box;
+}
+
+#title {
+    position: absolute;
+    margin-top: 25px;
+    left: 195px;
+    height: 41px;
+    text-align: left;
+    font-size: 33px;
+    font-weight: 50%;
+    letter-spacing: -2.4px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+h1#afford {
+    position: absolute;
+    top: 233px;
+    left: 142px;
+    width: 622px;
+    height: 225px;
+    text-align: left;
+    font-size: 55px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    font-family: 'Nunito', sans-serif;
+}
+
+div#start {
+    position: absolute;
+    top: 490px;
+    left: 140px;
+    width: 220px;
+    height: 45px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #229DE8;
+    opacity: 1;
+}
+
+p#strt {
+    position: absolute;
+    top: 475px;
+    left: 190px;
+    width: 150px;
+    height: 32px;
+    text-align: left;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+}
+
+img#play {
+    position: absolute;
+    top: 589px;
+    left: 142px;
+    width: 207px;
+    height: 61px;
+    background: transparent url('../images/play.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#apple {
+    position: absolute;
+    top: 589px;
+    left: 371px;
+    width: 206px;
+    height: 62px;
+    background: transparent url('../images/apple.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#ph {
+    position: absolute;
+    top: 134px;
+    left: 819px;
+    width: 427px;
+    height: 517px;
+    background: transparent url('../images/Phone.png') 0% 0% no-repeat padding-box;
+}
+
+img#conv {
+    position: absolute;
+    top: 837px;
+    left: 110px;
+    width: 467px;
+    height: 426px;
+    background: transparent url('../images/Icon 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p#convi {
+    position: absolute;
+    top: 825px;
+    left: 752px;
+    width: 129px;
+    height: 20px;
+    text-align: left;
+    font-size: 27px;
+    font-weight: bold;
+    letter-spacing: 0;
+    color: #B60C06;
+    opacity: 1;
+    font-weight: bold;
+}
+
+div#con {
+    position: absolute;
+    top: 857px;
+    left: 752px;
+    width: 475px;
+    height: 90px;
+    text-align: left;
+    font-size: 33px;
+    letter-spacing: 0;
+    color: #686160;
+    opacity: 1;
+}
+
+p#con {
+    position: absolute;
+    top: 960px;
+    left: 752px;
+    width: 487px;
+    height: 54px;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+    color: #666464;
+    opacity: 1;
+}
+
+p#app {
+    position: absolute;
+    top: 1043px;
+    left: 752px;
+    width: 371px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+    color: #666464;
+    opacity: 1;
+}
+
+div#st {
+    position: absolute;
+    top: 1096px;
+    left: 750px;
+    width: 240px;
+    height: 44px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+p#id {
+    position: absolute;
+    top: 1082px;
+    left: 812px;
+    width: 120px;
+    height: 32px;
+    text-align: left;
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+img#simpl {
+    position: absolute;
+    top: 1263px;
+    left: 846px;
+    width: 328px;
+    height: 336px;
+    background: transparent url('../images/icon 2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+p#simp {
+    position: absolute;
+    top: 1310px;
+    left: 116px;
+    width: 109px;
+    height: 27px;
+    text-align: left;
+    font-weight: Bold;
+    font-size: 20px;
+    letter-spacing: 0;
+    color: #B60C06;
+    opacity: 1;
+    font-weight: bold;
+}
+
+p#sim {
+    position: absolute;
+    top: 1355px;
+    left: 112px;
+    width: 465px;
+    height: 90px;
+    text-align: left;
+    font-size: 33px;
+    letter-spacing: 0;
+    color: #686160;
+    opacity: 1;
+}
+
+p#si {
+    position: absolute;
+    top: 1459px;
+    left: 116px;
+    width: 538px;
+    height: 81px;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+    color: #666464;
+    opacity: 1;
+}
+
+div#gt {
+    position: absolute;
+    top: 1587px;
+    left: 112px;
+    width: 240px;
+    height: 44px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+p#st {
+    position: absolute;
+    top: 1580px;
+    left: 183px;
+    width: 121px;
+    height: 32px;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+div#relia {
+    position: absolute;
+    top: 1760px;
+    left: 0px;
+    width: 1366px;
+    height: 505px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#pho {
+    position: absolute;
+    top: 1853px;
+    left: 303px;
+    width: 136px;
+    height: 136px;
+    background: transparent url('../images/smartphone.png') 0% 0% no-repeat padding-box;
+    opacity: 0.72;
+}
+
+p#dig {
+    position: absolute;
+    top: 2021px;
+    left: 190px;
+    width: 379px;
+    height: 90px;
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+img#lock {
+    position: absolute;
+    top: 1853px;
+    left: 890px;
+    width: 136px;
+    height: 136px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+div.vl {
+    position: absolute;
+    top: 1760px;
+    left: 683px;
+    width: 20px;
+    height: 505px;
+    color: #FFFFFF;
+}
+
+p#safee {
+    position: absolute;
+    top: 2021px;
+    left: 780px;
+    width: 309px;
+    height: 90px;
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+p#health {
+    position: absolute;
+    top: 2331px;
+    left: 440px;
+    width: 499px;
+    height: 33px;
+    text-align: left;
+    font-size: 33px;
+    letter-spacing: 0;
+    color: #666666;
+    opacity: 1;
+    font-weight: bold;
+    font-family: 'Nunito sans', sans-serif;
+}
+
+p#health2 {
+    position: absolute;
+    top: 2390px;
+    left: 393px;
+    width: 600px;
+    height: 32px;
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #747272;
+    opacity: 1;
+}
+
+img#play2 {
+    position: absolute;
+    top: 2454px;
+    left: 474px;
+    width: 207px;
+    height: 61px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#apple2 {
+    position: absolute;
+    top: 2454px;
+    left: 715px;
+    width: 190px;
+    height: 56px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+div#footer {
+    position: absolute;
+    top: 2591px;
+    left: 50px;
+    width: 1267px;
+    height: 127px;
+    background: #229DE8 0% 0% no-repeat padding-box;
+    border-radius: 48px 48px 0px 0px;
+    opacity: 1;
+}
+
+p#footer {
+    position: absolute;
+    top: 2630px;
+    left: 1131px;
+    width: 142px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+img#fb {
+    position: absolute;
+    top: 2640px;
+    left: 652px;
+    width: 11px;
+    height: 21px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+img#tw {
+    position: absolute;
+    top: 2640px;
+    left: 687px;
+    width: 28px;
+    height: 21px;
+    background: transparent url('img/twitter-logo-silhouette.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+a#aboutf {
+    position: absolute;
+    top: 2640px;
+    left: 140px;
+    width: 50px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+a#faqf {
+    position: absolute;
+    top: 2640px;
+    left: 260px;
+    width: 44px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+a#contactf {
+    position: absolute;
+    top: 2640px;
+    left: 381px;
+    width: 90px;
+    height: 24px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
